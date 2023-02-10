@@ -1,5 +1,5 @@
 # AlgoRobot
-a simple and fun game inspired by Algorithm City.
+A simple and fun game inspired by Algorithm City.
 
 Basically, Functions are Queues that have the commands stored as strings.
 
